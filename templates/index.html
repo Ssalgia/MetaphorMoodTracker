@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Metaphor Mood Tracker</title>
+</head>
+<body>
+    <h1>Metaphor Mood Tracker</h1>
+    <form method="POST">
+        <label for="user_text">Enter your text:</label><br>
+        <textarea name="user_text" rows="4" cols="50"></textarea><br>
+        <input type="submit" value="Analyze">
+    </form>
+    <h2>Analysis Result:</h2>
+    <p>{{ result }}</p>
+</body>
+</html>
