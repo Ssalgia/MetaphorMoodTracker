@@ -9,20 +9,25 @@ Following are the steps to run the application.
 
 1.In order to run this code, use the following commands from 'MetaphorMoodTracker'.
 
+```bash
 pip install -r requirements.txt
+```
 
-Make changes in the following file for the followu=ing variables as per the requirements
+Make changes in the following file for the followuing variables as per the requirements
+```bash
 file : app.py
-
+```
+```bash
 Variable 1 - metaphor_api_key ( API key generated on Metaphor website)
-
+```
+```bash
 Vairable 2 - openai.api_key ( API Key generated on OPEN AI website)
-
+```
 
 2.After the dependecies are installed successfully start the app by running the following command form the Metaphor folder:
-
+```bash
 python app.py
-
+```
 3.Open the localhost:5000 in your browser.   
 
 4.Now write the prompt in the text box and click on analyze.The analysis the output will show the result.
