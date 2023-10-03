@@ -13,9 +13,8 @@ Following are the steps to run the application.
 pip install -r requirements.txt
 ```
 
-Make changes in the following file for the following variables as per the requirements
+2.Make changes in the following file for the following variables as per the requirements - file : app.py
 
--- file : app.py
 
 ```bash
 Variable 1 - metaphor_api_key ( API key generated on Metaphor website)
@@ -24,11 +23,12 @@ Variable 1 - metaphor_api_key ( API key generated on Metaphor website)
 Vairable 2 - openai.api_key ( API Key generated on OPEN AI website)
 ```
 
-2.After the dependecies are installed successfully start the app by running the following command form the Metaphor folder:
+3.After the dependencies are installed successfully start the app by running the following command form the Metaphor folder:
 ```bash
 python app.py
 ```
-3.Open the localhost:5000 in your browser.   
 
-4.Now write the prompt in the text box and click on analyze.The analysis the output will show the result.
+4.Open the localhost:5000 in your browser.   
+
+5.Now write the prompt in the text box and click on analyze.The analysis the output will show the result.
 
