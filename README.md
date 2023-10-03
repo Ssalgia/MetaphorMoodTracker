@@ -13,10 +13,10 @@ Following are the steps to run the application.
 pip install -r requirements.txt
 ```
 
-Make changes in the following file for the followuing variables as per the requirements
-```bash
-file : app.py
-```
+Make changes in the following file for the following variables as per the requirements
+
+-- file : app.py
+
 ```bash
 Variable 1 - metaphor_api_key ( API key generated on Metaphor website)
 ```
