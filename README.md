@@ -1,9 +1,8 @@
 # MetaphorMoodTracker
-Project Title : ** Metaphor Mood Tracker **
 
 The "Metaphor Mood Tracker" is a simple web application that analyzes the metaphors used in blocks of text and provides an overall mood or feeling based on those metaphors. This project could be used for content creators, bloggers or social media enthusiasts who want to measure the emotional tone of their text.
 
-** EXECUTION STEPS **
+ EXECUTION STEPS 
 
 Following are the steps to run the application.
 
